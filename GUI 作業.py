@@ -1,5 +1,9 @@
 # z87823xxx所有 #
-#小修改 到此一遊
+<<<<<<< HEAD
+#協助者kai 到此一遊
+=======
+#協助者brain福隆
+>>>>>>> a172d3cc6fb58480defc482b43dd1476d1cb4de2
 """
 ==== 1. =====
 請參考 73-tkinter-label-2文字擺放place.py
