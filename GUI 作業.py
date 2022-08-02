@@ -1,4 +1,5 @@
 # z87823xxx所有 #
+#協助者brain福隆
 """
 ==== 1. =====
 請參考 73-tkinter-label-2文字擺放place.py
